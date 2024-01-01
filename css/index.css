@@ -1,5 +1,5 @@
 .header{
-    background-color:saddlebrown; 
+    background-color:rgba(25, 11, 102, 0.993); 
     width: 100%; 
     height: 50px;
 }
@@ -41,7 +41,7 @@
 }
 
 .button{
-    background-color: pink;
+    background-color: rgba(25, 11, 102, 0.993);
     color: palevioletred;
     padding: 10px 25px;   
     font-size: 16px;
@@ -50,8 +50,8 @@
 }
 
 .button:hover{
-    background-color: brown; /* Green */
-    color: white;
+    background-color: pink; /* Green */
+    color: black;
 }
 
  
