@@ -1,0 +1,57 @@
+.header{
+    background-color:saddlebrown; 
+    width: 100%; 
+    height: 50px;
+}
+
+.music{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    position: fixed;
+    top: 10px;
+    margin-left: 30px; 
+}
+
+.homepage{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    position: fixed;
+    top: 10px;
+    margin-left: 200px; 
+}
+
+.products{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    position: fixed;
+    top: 10px;
+    margin-left: 300px;
+}
+
+.aboutus{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    position: fixed;
+    top: 10px;
+    margin-left: 425px;
+}
+
+.button{
+    background-color: pink;
+    color: palevioletred;
+    padding: 10px 25px;   
+    font-size: 16px;
+    border-radius: 4px;
+    border: 0px;
+}
+
+.button:hover{
+    background-color: brown; /* Green */
+    color: white;
+}
+
+ 
